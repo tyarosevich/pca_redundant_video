@@ -1,0 +1,16 @@
+*.avi
+*.csv
+*.jpg
+*.png
+*.cls
+*.aux
+*.log
+*.out
+*.synctex
+*.toc
+*.tex
+yarosevich_582_hw3_latex.pdf
+Backup Captures/
+*.gz
+!1_to_4_compare.jpg
+!part4_v.jpg
